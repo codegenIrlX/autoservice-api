@@ -1,0 +1,6 @@
+# Игнорируем файлы и папки, которые не нужны в контейнере
+.gradle
+build
+Dockerfile
+.dockerignore
+.git
